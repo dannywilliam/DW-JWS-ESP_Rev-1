@@ -1,5 +1,5 @@
 [![Build_special_firmware](https://www.nn-digital.com/wp-content/uploads/2019/07/NodeMCU-Lolin-1.jpg)](https://github.com/dannywilliam/DW-JWS-ESP_Rev-1/blob/main/README.md)
-# DW-JWS-ESP_Rev-1
+# DW JWS ESP_Rev 1
 Jadwal Waktu Sholat yang dibuat dengan ESP8266 dan Panel P10 (HUB12)
 
 
